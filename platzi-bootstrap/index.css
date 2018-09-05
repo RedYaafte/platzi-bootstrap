@@ -1,6 +1,14 @@
 .text-platzi {
   color: #97c93e !important;
 }
+.btn-platzi {
+  background-color: #91c93e;
+  color: #fff;
+}
+.btn-platzi:hover {
+  background-color: #82ad36;
+}
+
 #header img {
   width: 80px;
 }
@@ -25,6 +33,14 @@
 #carousel .overlay .container,
 #carousel .overlay .row {
   height: 100%;
+}
+
+#place-time {
+  background-color: #343a40;
+  color: #fff;
+}
+#place-time img {
+  max-width: 100%;
 }
 
 #footer {
